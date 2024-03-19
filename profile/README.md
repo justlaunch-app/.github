@@ -7,4 +7,10 @@
 - [expo-router-starter-kit](https://github.com/justlaunch-app/expo-router-starter-kit) 
 
 #### Premium Kits
-Coming Soon...
+- expo-router-starter-pro - Launch 1st of April
+- expo-pro-examples - Launch 1st of April
+- expo-router-starter-subscription (RevenueCat) - Coming Soon
+- expo-router-starter-commerce (Stripe) - Coming Soon
+- expo-tv-pro - Coming Soon
+- expo-navigation-starter-pro -> Based on expo-router-starter-pro - Coming Soon
+
