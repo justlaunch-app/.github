@@ -10,7 +10,3 @@
 - expo-router-starter-pro (JS/TS version) - Launch 1st of April
 - expo-pro-examples(TS) - Launch 1st of April
 - expo-router-starter-subscription (RevenueCat) - Coming Soon
-- expo-router-starter-commerce (Stripe) - Coming Soon
-- expo-tv-pro - Coming Soon
-- expo-navigation-starter-pro -> Based on expo-router-starter-pro - Coming Soon
-
